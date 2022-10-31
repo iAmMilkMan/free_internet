@@ -8,8 +8,16 @@
 
 ![settings](https://github.com/iAmMilkMan/free_internet/blob/main/torBrowser-snowflake-bridge/images/001-torBrowser-setting.png?raw=true "settings")
 
-به قیمت Add a New Bridge برین و روی کلید Select a built-in bridge کلیک کنید
+به قسمت Add a New Bridge برین و روی کلید Select a built-in bridge کلیک کنید
 
-روی گزینه snowflake کلیک کنید و کلیک کنید ok کنید.
+![bridges](https://github.com/iAmMilkMan/free_internet/blob/main/torBrowser-snowflake-bridge/images/002-torBrowser-bridges.png "bridges")
 
-حالا برگردین بخش اصلی نرم افزار و connect کنید، برای دفعه اول ممکنه کمی بیشتر طول بکشه ولی وصل میشه
+روی گزینه snowflake کلیک کنید و  ok کنید.
+
+حالا برگردین به صفحه اول نرم افزار و دکمه connect رو بزنید، دفعه اول ممکنه کمی بیشتر طول بکشه تا وصل بشه، بعد از اتصال میتونید از اینترنت آزاد لذت ببرین
+
+**نکته** مهم اینه که ساعت سیستمتون باید sync باشه تا وصل بشه
+
+این روش رو من توی لینوکس و ویندوز تست کردم و وصل شدم، اگر تجربه ای روی سیستم عامل دیگه ای داشتین یا به مشکلی بر خوردین بگین تا این صفحه رو آیپدیت کنم
+
+telegram: [@i_am_milkMan](https://t.me/i_am_milkMan)
