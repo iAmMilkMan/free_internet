@@ -21,9 +21,15 @@
 
 حالا روی کلمه register  کلیک کنید تا به صفحه ثبت نام برین
 
+![register](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-email/images/001-register.png "register")
+
 توی این صفحه اطلاعاتی که میخواین باهاش ایمیل بسازین رو وارد کنین، پیشنهاد میکنم اسم یا چیزی که به خودتون مربوط باشه چه توی ایمیل و چه توی پسورد وارد نکنید (این سرویس ها قطعا قابل اطمینان نیستن برای اینه که پسورد هم نباید اسم خودتون باشه)
 
+![register data](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-email/images/002-data-entry.png "register data")
+
 به راحتی و بدون اطلاعات اضافی ایمیل ساخته شد، حالا میتونید از بخش webmail login سایت به ایمیلتون دسترسی داشته باشین و استفاده کنین
+
+![login](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-email/images/003-login.png "login")
 
 ## ملاحظات
 
