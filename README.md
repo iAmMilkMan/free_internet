@@ -4,6 +4,6 @@
 telegram: [@i_am_milkMan](https://t.me/i_am_milkMan)
 
 ### فهرست مطالب
-- [چطور به شبکه tor وصل بشیم](https://github.com/iAmMilkMan/free_internet/tree/main/torBrowser-snowflake-bridge)
+- [چطور به شبکه tor وصل بشیم؟](https://github.com/iAmMilkMan/free_internet/tree/main/torBrowser-snowflake-bridge)
 - [چطور ایمیل مخفی و غیر‌قابل پیگیری بسازیم؟](https://github.com/iAmMilkMan/free_internet/tree/main/anonymous-email)
 
