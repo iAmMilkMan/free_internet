@@ -29,5 +29,35 @@
 
 به آدرس سایت زیر برین (اگر با tor دارین ادامه میدین، کپی کنین و توی tor browser باز کنید.)
 
-[https://bluevps.com]( https://bluevps.com)
+[https://my.bluevps.com/store/bluevps-linux](https://my.bluevps.com/store/bluevps-linux)
+
+در این بخش میتونین بنا به نیاز سخت افزاری که لازم دارین رو انتخاب کنین، برای VPN شخصی اولین پلن هم کافیه.
+
+![register](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-VPS/images/001.png "register")
+
+
+حالا باید سیستم عامل و موقعیت سرور رو انتخاب کنید، پیشنهاد من ubuntu 22 هست و مکان سرور ها متناسب با جایی که میخواین.
+
+![register](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-VPS/images/002.png "register")
+
+
+در این بخش کاری نداریم و فقط روی کلمه checkout کلیک میکنیم.
+
+![register](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-VPS/images/003.png "register")
+
+
+حالا باید مشخصات برای ثبت نام وارد کنیم، قطعا مشخصات خودمونُ وارد نمیکنیم و از سایت هایی مثل لینک پایین مشخصات جعلی وارد میکنیم.
+
+[https://www.myfakeinfo.com/identity/us-identity-info-generator.php](https://www.myfakeinfo.com/identity/us-identity-info-generator.php)
+
+![register](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-VPS/images/004.png "register")
+
+در این مرحله هم میگیم  که با کریپتو پرداخت میکنیم و term of service  رو هم قبول داریم.
+![register](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-VPS/images/005.png "register")
+
+
+بعد از تایید ایمیل و login  کردن در سایت میرسیم به مرحله پرداخت، کوین های زیادی برای پرداخت وجود داره ولی امن ترین راه استفاده از ارز monero هست که قابل پیگیری نیست. انتخاب کنین و بریم مرحله آخر.
+
+
+![register](https://github.com/iAmMilkMan/free_internet/blob/main/anonymous-VPS/images/007.png "register")
 
